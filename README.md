@@ -9,3 +9,5 @@
 
 Thanks for visiting,
 Bryden Oliver
+
+[![Bryden's github stats](https://github-readme-stats.vercel.app/api?username=brydeno)](https://github.com/brydeno/github-readme-stats)
